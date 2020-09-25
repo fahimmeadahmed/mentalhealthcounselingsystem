@@ -16,6 +16,7 @@
 
                     {{ __('You are logged in!') }}
                 </div>
+                <a href="/staff" class="btn btn-info" role="button">Profile</a>
             </div>
         </div>
     </div>

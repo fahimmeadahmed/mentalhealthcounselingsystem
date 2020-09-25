@@ -68,6 +68,7 @@
                                 <select class="form-control" name="type" id="type">
                                     <option class="form-control">Doctor</option>
                                     <option class="form-control" selected>Patient</option>
+                                    <option class="form-control">Staff</option>
                                 </select>
                             </div>
                         </div>
